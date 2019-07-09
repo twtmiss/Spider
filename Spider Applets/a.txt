@@ -1,0 +1,156 @@
+"user": {
+                "locationInfo": null,
+                "liveInfo": null,
+                "remarkName": null,
+                "userId": 110774607,
+                "nickname": "MYLSZ",
+                "vipRights": {
+                    "associator": null,
+                    "musicPackage": {
+                        "vipCode": 220,
+                        "rights": true
+                    },
+                    "redVipAnnualCount": -1
+                },
+                "avatarUrl": "https://p1.music.126.net/fIZd5UgEj6DZTTjXAbUlyg==/109951163899212695.jpg",
+                "experts": null,
+                "authStatus": 0,
+                "vipType": 10,
+                "userType": 0,
+                "expertTags": null
+            },
+
+"user": {
+                "locationInfo": null,
+                "liveInfo": null,
+                "remarkName": null,
+                "userId": 127821289,
+                "nickname": "19万楼主在这里",
+                "vipRights": null,
+                "avatarUrl": "https://p1.music.126.net/Te1Hfltm9szrshroZOQIXA==/1417270498981870.jpg",
+                "experts": null,
+                "authStatus": 0,
+                "vipType": 0,
+                "userType": 0,
+                "expertTags": null
+            },
+
+"user": {
+                "locationInfo": null,
+                "liveInfo": null,
+                "remarkName": null,
+                "userId": 62010408,
+                "nickname": "利利__1",
+                "vipRights": {
+                    "associator": null,
+                    "musicPackage": {
+                        "vipCode": 220,
+                        "rights": true
+                    },
+                    "redVipAnnualCount": -1
+                },
+                "avatarUrl": "https://p1.music.126.net/4nuJtwKrMSZmCt-_7FKvag==/109951163704054239.jpg",
+                "experts": null,
+                "authStatus": 0,
+                "vipType": 10,
+                "userType": 0,
+                "expertTags": null
+            },
+
+"user": {
+                "locationInfo": null,
+                "liveInfo": null,
+                "remarkName": null,
+                "userId": 7269540,
+                "nickname": "章筱雯",
+                "vipRights": null,
+                "avatarUrl": "https://p1.music.126.net/4j00sUDeLATHK6ZdZ4VhvA==/5858197952885291.jpg",
+                "experts": null,
+                "authStatus": 1,
+                "vipType": 0,
+                "userType": 4,
+                "expertTags": null
+            },
+"user": {
+                "locationInfo": null,
+                "liveInfo": null,
+                "remarkName": null,
+                "userId": 1520280578,
+                "nickname": "你是我的初恋呀_",
+                "vipRights": {
+                    "associator": {
+                        "vipCode": 100,
+                        "rights": true
+                    },
+                    "musicPackage": null,
+                    "redVipAnnualCount": -1
+                },
+                "avatarUrl": "https://p1.music.126.net/ZYF51ZQWSY5kY27i7ScB_w==/109951164095918098.jpg",
+                "experts": null,
+                "authStatus": 0,
+                "vipType": 11,
+                "userType": 0,
+                "expertTags": null
+            },
+"user": {
+                "locationInfo": null,
+                "liveInfo": null,
+                "authStatus": 1,
+                "avatarUrl": "https://p2.music.126.net/JChJcE3H1fwfcx4WZBL6Yg==/18749971790233692.jpg",
+                "experts": null,
+                "vipRights": null,
+                "vipType": 0,
+                "userType": 4,
+                "expertTags": null,
+                "remarkName": null,
+                "nickname": "时夏Miao",
+                "userId": 278089407
+            },
+
+"user": {
+                "locationInfo": null,
+                "liveInfo": null,
+                "authStatus": 1,
+                "avatarUrl": "https://p2.music.126.net/h0S7XBM40YEwa_6ds0IVOA==/18567452860325173.jpg",
+                "experts": null,
+                "vipRights": {
+                    "associator": {
+                        "vipCode": 100,
+                        "rights": true
+                    },
+                    "musicPackage": null,
+                    "redVipAnnualCount": -1
+                },
+                "vipType": 11,
+                "userType": 4,
+                "expertTags": null,
+                "remarkName": null,
+                "nickname": "奇然Iiya",
+                "userId": 108642126
+            },
+
+{
+    "userId": ,
+    "nickname": "",
+    "vipRights": {
+        # 黑胶vip
+        "associator": {
+                        "vipCode": 100,
+                        "rights": true
+                    },
+        # 音乐包
+        "musicPackage": {
+                        "vipCode": 220,
+                        "rights": true
+                    },
+        "redVipAnnualCount": -1            
+    },
+    # 音乐人 1， 0空
+    "authStatus": 0,
+    # 10音乐包，11黑胶vip 0空
+    "vipType": 11,
+    # 音乐人4 0空
+    "userType": 0,
+    "avatarUrl": 
+    
+}
